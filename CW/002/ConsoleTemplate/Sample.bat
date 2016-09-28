@@ -1,0 +1,1 @@
+﻿start ConsoleTemplate.exe 9.9.9.9 -t
